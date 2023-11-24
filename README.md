@@ -84,4 +84,11 @@ We welcome contributions to the Receipt Management System. To contribute, please
 4. Submit a pull request explaining your changes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Please see the [License file](LICENSE) for more information.
+This project is licensed under the [MIT License](LICENSE). Please see the [License file](LICENSE) for more information. 
+
+## JIRA KAN-84 Update
+| Stakeholder      | Role              |
+|------------------|-------------------|
+| Ioana            | OCR Solution Lead |
+| Hakan            | Smart Receipt Capture Lead |
+| Pavel            | Country Director   |
