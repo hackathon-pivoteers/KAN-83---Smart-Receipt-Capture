@@ -91,4 +91,8 @@ This project is licensed under the [MIT License](LICENSE). Please see the [Licen
 |------------------|-------------------|
 | Ioana            | OCR Solution Lead |
 | Hakan            | Smart Receipt Capture Lead |
-| Pavel            | Country Director   |
+| Pavel            | Country Director   | 
+
+## JIRA KAN-84 Update
+<h2>Feature: OCR Integration</h2>
+<p>The OCR Integration feature involves integrating an OCR solution into the Smart Receipt Capture system. It includes developing API integration points for seamless communication and data exchange between the systems. The feature also ensures standardization of data formats and addresses any discrepancies in data structure. Additionally, technical documentation is created for implementation details, along with user documentation for administrators to configure and manage the OCR integration.</p>
