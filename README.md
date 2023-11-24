@@ -95,4 +95,12 @@ This project is licensed under the [MIT License](LICENSE). Please see the [Licen
 
 ## JIRA KAN-84 Update
 <h2>Feature: OCR Integration</h2>
+<p>The OCR Integration feature involves integrating an OCR solution into the Smart Receipt Capture system. It includes developing API integration points for seamless communication and data exchange between the systems. The feature also ensures standardization of data formats and addresses any discrepancies in data structure. Additionally, technical documentation is created for implementation details, along with user documentation for administrators to configure and manage the OCR integration.</p> 
+
+## JIRA KAN-84 Update
+<h2>Feature: OCR Integration</h2>
 <p>The OCR Integration feature involves integrating an OCR solution into the Smart Receipt Capture system. It includes developing API integration points for seamless communication and data exchange between the systems. The feature also ensures standardization of data formats and addresses any discrepancies in data structure. Additionally, technical documentation is created for implementation details, along with user documentation for administrators to configure and manage the OCR integration.</p>
+<p>Ioana is a developer</p>
+<p>Hakan is a developer</p>
+<p>Premysl is a Manager</p>
+<p>Pavel is Country Director</p>
